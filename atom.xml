@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DreamWorks</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-27T09:40:25.600Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jia Hu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好,Hexo</title>
+    <link href="http://yoursite.com/2019/01/27/%E4%BD%A0%E5%A5%BD-Hexo/"/>
+    <id>http://yoursite.com/2019/01/27/你好-Hexo/</id>
+    <published>2019-01-27T06:35:02.000Z</published>
+    <updated>2019-01-27T09:40:25.600Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+</feed>
